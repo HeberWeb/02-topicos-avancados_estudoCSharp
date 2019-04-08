@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_VarDynamic", "02_VarDyna
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_ExtensionMethods", "03_ExtensionMethods\03_ExtensionMethods.csproj", "{FA8911FE-65BE-4EE7-BBD0-48922A517CE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Nullable", "04_Nullable\04_Nullable.csproj", "{67184524-3EE7-4925-9580-53B501D73325}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FA8911FE-65BE-4EE7-BBD0-48922A517CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA8911FE-65BE-4EE7-BBD0-48922A517CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA8911FE-65BE-4EE7-BBD0-48922A517CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67184524-3EE7-4925-9580-53B501D73325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67184524-3EE7-4925-9580-53B501D73325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67184524-3EE7-4925-9580-53B501D73325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67184524-3EE7-4925-9580-53B501D73325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
